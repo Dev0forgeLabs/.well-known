@@ -1,2 +1,2 @@
 # .well-known
-Public security metadata for freedeetrading.org (.well-known endpoints, security.txt, PGP key).
+Public security metadata for freedeetrading.org (security.txt, PGP key).
