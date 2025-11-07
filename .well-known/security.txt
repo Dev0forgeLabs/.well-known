@@ -1,0 +1,9 @@
+# security.txt for freedeetrading.org
+# See RFC 9116 for details
+
+Contact: mailto:security@freedeetrading.org
+Encryption: https://freedeetrading.org/.well-known/pgp-key.txt
+Preferred-Languages: en
+Canonical: https://freedeetrading.org/.well-known/security.txt
+Policy: https://github.com/freedeetrading/.github/blob/main/SECURITY.md
+Expires: 2026-11-06T00:00:00Z
