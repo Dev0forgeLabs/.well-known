@@ -5,5 +5,5 @@ Contact: mailto:security@freedeetrading.org
 Encryption: https://freedeetrading.org/.well-known/pgp-key.txt
 Preferred-Languages: en
 Canonical: https://freedeetrading.org/.well-known/security.txt
-Policy: https://github.com/freedeetrading/.github/blob/main/SECURITY.md
+Policy: https://github.com/Dev0forgeLabs/freedeetrading/blob/main/SECURITY.md
 Expires: 2026-11-06T00:00:00Z
